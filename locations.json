@@ -1,0 +1,98 @@
+[
+    {
+        "location_name": "F332",
+        "latitude": 39.969245,
+        "longitude": 32.7432929,
+        "floor": 3
+    },
+    {
+        "location_name": "F333",
+        "latitude": 39.969246,
+        "longitude": 32.74331,
+        "floor": 3
+    },
+    {
+        "location_name": "F334",
+        "latitude": 39.9692519,
+        "longitude": 32.7433012,
+        "floor": 3
+    },
+    {
+        "location_name": "F335",
+        "latitude": 39.9692653,
+        "longitude": 32.7433502,
+        "floor": 3
+    },
+    {
+        "location_name": "F336",
+        "latitude": 39.9691759,
+        "longitude": 32.7436888,
+        "floor": 3
+    },
+    {
+        "location_name": "F337",
+        "latitude": 39.9691293,
+        "longitude": 32.7437177,
+        "floor": 3
+    },
+    {
+        "location_name": "F338",
+        "latitude": 39.9691342,
+        "longitude": 32.7435812,
+        "floor": 3
+    },
+    {
+        "location_name": "F339",
+        "latitude": 39.9692283,
+        "longitude": 32.7437502,
+        "floor": 3
+    },
+    {
+        "location_name": "F340",
+        "latitude": 39.9691833,
+        "longitude": 32.7436613,
+        "floor": 3
+    },
+    {
+        "location_name": "F344 (Conference Room)",
+        "latitude": 39.9690713,
+        "longitude": 32.743656,
+        "floor": 3
+    },
+    {
+        "location_name": "F349",
+        "latitude": 39.9688791,
+        "longitude": 32.7435812,
+        "floor": 3
+    },
+    {
+        "location_name": "F350",
+        "latitude": 39.9689066,
+        "longitude": 32.7435835,
+        "floor": 3
+    },
+    {
+        "location_name": "F351",
+        "latitude": 39.9689266,
+        "longitude": 32.7435812,
+        "floor": 3
+    },
+    {
+        "location_name": "F352",
+        "latitude": 39.9689096,
+        "longitude": 32.743539,
+        "floor": 3
+    },
+    {
+        "location_name": "Cafeteria",
+        "latitude": 39.9691288,
+        "longitude": 32.743656,
+        "floor": 3
+    },
+    {
+        "location_name": "Terrace",
+        "latitude": 39.9688708,
+        "longitude": 32.7439259,
+        "floor": 3
+    }
+]
